@@ -1,3 +1,3 @@
 # page-transition
 
-https://frantisekspunda.github.io/page-transition/
+start with parcel-bundler
